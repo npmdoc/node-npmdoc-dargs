@@ -1,6 +1,6 @@
 # npmdoc-dargs
 
-#### api documentation for  [dargs (v5.1.0)](https://github.com/sindresorhus/dargs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-dargs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dargs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dargs)
+#### basic api documentation for  [dargs (v5.1.0)](https://github.com/sindresorhus/dargs#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-dargs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dargs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dargs)
 
 #### Reverse minimist. Convert an object of options into an array of command-line arguments.
 
@@ -91,7 +91,8 @@
     "version": "5.1.0",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
